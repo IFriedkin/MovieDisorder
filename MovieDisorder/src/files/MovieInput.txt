@@ -1,0 +1,365 @@
+What's Eating Gilbert Grape?,1993,Leonardo DiCaprio
+The Quick and the Dead,1995,Leonardo DiCaprio
+Total Eclipse,1995,Leonardo DiCaprio
+Williams Shakespeare's Romeo and Juliet,1996,Leonardo DiCaprio
+Titanic,1997,Leonardo DiCaprio
+The Man in the Iron Mask,1998,Leonardo DiCaprio
+The Beach,2000,Leonardo DiCaprio
+Gangs of New York,2002,Leonardo DiCaprio
+Catch Me If You Can,2002,Leonardo DiCaprio
+Blood Diamond,2006,Leonardo DiCaprio
+The Departed,2006,Leonardo DiCaprio
+Body of Lies,2008,Leonardo DiCaprio
+Shutter Island,2010,Leonardo DiCaprio
+Inception,2010,Leonardo DiCaprio
+The Great Gatsby,2013,Leonardo DiCaprio
+The Wolf of Wall Street,2013,Leonardo DiCaprio
+Reservoir Dogs,1992,Quentin Tarantino
+Pulp Fiction,1994,Quentin Tarantino
+Four Rooms,1995,Quentin Tarantino
+Jackie Brown,1997,Quentin Tarantino
+Kill Bill: Volume 1,2003,Quentin Tarantino
+Kill Bill: Volume 2,2004,Quentin Tarantino
+Sin City,2005,Quentin Tarantino
+Grindhouse,2007,Quentin Tarantino
+Inglrious Basterds,2009,Quentin Tarantino
+Django Unchained,2012,Quentin Tarantino
+The Hateful Eight,2015,Quentin Tarantino
+Snatch,2000,Jason Statham
+John Carpenter's Ghosts of Mars,2001,Jason Statham
+Transporter,2002,Jason Statham
+The Italian Job,2003,Jason Statham
+Cellular,2004,Jason Statham
+Chaos,2005,Jason Statham
+Transporter 2,2005,Jason Statham
+Crank,2006,Jason Statham
+War,2007,Jason Statham
+The Bank Job,2008,Jason Statham
+Death Race,2008,Jason Statham
+Transporter 3,2008,Jason Statham
+Crank: Hight Voltage,2009,Jason Statham
+The Expendables,2010,Jason Statham
+Blitz,2011,Jason Statham
+Safe,2012,Jason Statham
+The Expendables 2,2012,Jason Statham
+Homefront,2013,Jason Statham
+Parker,2013,Jason Statham
+The Expendables 3,2014,Jason Statham
+Hellboy,2004,Guillermo del Toro
+El laberinto del fauno,2006,Guillermo del Toro
+Hellboy 2: The Golden Army,2008,Guillermo del Toro
+Crisom Peak,2015,Guillermo del Toro
+The Shape of Water,2017,Guillermo del Toro
+The Prestige,2006,Christopher Nolan
+Interestellar,2014,Christopher Nolan
+Dunkerque,2017,Christopher Nolan
+Moulin Rouge,2001,Nicole Kidman
+Los otros,2001,Nicole Kidman
+Cold Mountain,2003,Nicole Kidman
+Dogville,2003,Nicole Kidman
+The invasion,2007,Nicole Kidman
+Australia,2008,Nicole Kidman
+Trespass,2011,Nicole Kidman
+Interview whith the Vampire,1994,Brad Pitt
+Twelve Monkeys,1995,Brad Pitt
+Se7en,1995,Brad Pitt
+The Devil's Own,1997,Brad Pitt
+Seven Years in Tibet,1997,Brad Pitt
+Meet Joe Black,1998,Brad Pitt
+Fight Club,1999,Brad Pitt
+The Mexican,2001,Brad Pitt
+Spy Game,2001,Brad Pitt
+Ocean's Eleven,2001,Brad Pitt
+Ocean's Twelve,2004,Brad Pitt
+Troya,2004,Brad Pitt
+Mr. and Mrs. Smith,2005,Brad Pitt
+The Assassination of Jesse James By The Coward Robert Ford,2007,Brad Pitt
+Ocean's 13,2007,Brad Pitt
+Killing Them Softly,2012,Brad Pitt
+12 Years a Slave,2013,Brad Pitt
+World War Z,2013,Brad Pitt
+Fury,2014,Brad Pitt
+Allied,2016,Brad Pitt
+The Shinning,1980,Stephen King
+The Dead Zone,1983,Stephen King
+Christine,1983,Stephen King
+Firestarter,1984,Stephen King
+Silver Bullet,1985,Stephen King
+The Running Man,1987,Stephen King
+Misery,1990,Stephen King
+Needful Things,1993,Stephen King
+The Shawshank Redemption,1994,Stephen King
+Dolores Claiborne,1995,Stephen King
+The Green Mile,1999,Stephen King
+Dreamcatcher,2003,Stephen King
+Secret Window,2004,Stephen King
+Riding the Bullet,2004,Stephen King
+Desperation,2006,Stephen King
+1408,2007,Stephen King
+The Mist,2007,Stephen King
+Carrie,2013,Stephen King
+It,2017,Stephen King
+Nim's Island,2008,Gerard Butler
+RocknRolla,2009,Gerard Butler
+Law Abiding Citizen,2010,Gerard Butler
+The Bounty Hunter,2010,Gerard Butler
+Machine Gun Preacher,2011,Gerard Butler
+Olympus Has Fallen,2013,Gerard Butler
+London Has Fallen,2016,Gerard Butler
+Den of Thieves,2018,Gerard Butler
+Snow White and the Seven Dwarfs,1937,Disney
+Pinocho,1940,Disney
+Dumbo,1941,Disney
+Bambi,1942,Disney
+Cinderella,1950,Disney
+Peter Pan,1953,Disney
+Lady and the Tramp,1955,Disney
+Disney's Sleeping Beauty,1959,Disney
+One Hundred and One Dalmatians,1961,Disney
+The Jungle Book,1967,Disney
+The Fox and the Hound,1981,Disney
+The Little Mermaid,1989,Disney
+Beauty and the Beast,1991,Disney
+Aladdin,1992,Disney
+The Lion King,1994,Disney
+Pocahontas,1995,Disney
+Toy Story,1995,Disney
+Hercules,1997,Disney
+Mulan,1998,Disney
+The Lion King II: Simba's Pride,1998,Disney
+Tarzan,1999,Disney
+Toy Story 2,1999,Disney
+The Little Mermaid II: Return to the Sea,2000,Disney
+Lady and the Tramp II: Scamp's Adventure,2001,Disney
+Atlantis: The Lost Empire,2001,Disney
+Monsters: Inc,2001,Disney
+Peter Pan: Return to NeverLand,2002,Disney
+Lilo & Stitch,2002,Disney
+Cinderella II: Dreams Come True,2002,Disney
+Finding Nemo,2003,Disney
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,Disney
+The Haunted Mansion,2003,Disney
+National Treasure,2004,Disney
+Herbie: Fully Loaded,2005,Disney
+Cars,2006,Disney
+Pirates of the Caribbean: Dead Man's Chest,2006,Disney
+Pirates of the Caribbean: At World's End,2007,Disney
+National Treasure: Book of Secrets,2007,Disney
+WALL•E,2008,Disney
+Up,2009,Disney
+The Princess and the Frog,2009,Disney
+Toy Story 3,2010,Disney
+Tangled,2010,Disney
+Cars 2,2011,Disney
+Pirates of the Caribbean: On Stranger Tides,2011,Disney
+Brave,2012,Disney
+Wreck-It Ralph,2012,Disney
+Monsters University,2013,Disney
+Frozen,2013,Disney
+Disney's Planes,2013,Disney
+Planes: Fire & Rescue,2014,Disney
+Zootopia,2016,Disney
+Finding Dory,2016,Disney
+Moana,2016,Disney
+Beauty and the Beast,2017,Disney
+Pirates of the Caribbean: Dead Men Tell No Tales,2017,Disney
+Cars 3,2017,Disney
+Coco,2017,Disney
+The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson
+The Lord of the Rings: The Two Towers,2002,Peter Jackson
+The Lord of the Rings: The Return of the King,2003,Peter Jackson
+The Lovely Bones,2009,Peter Jackson
+The Hobbit: An Unexpected Journey,2012,Peter Jackson
+The Hobbit: The Desolation of Smaug,2013,Peter Jackson
+The Hobbit: The Battle of the Five Armies,2014,Peter Jackson
+Point Break,1991,Keanu Reeves
+Bram stocker's Dracula,1992,Keanu Reeves
+Speed,1994,Keanu Reeves
+Chain Reaction,1996,Keanu Reeves
+The Devil's Advocate,1997,Keanu Reeves
+The Watcher,2000,Keanu Reeves
+Constantine,2005,Keanu Reeves
+The Lake House,2006,Keanu Reeves
+Henry's Crime,2010,Keanu Reeves
+John Wick,2014,Keanu Reeves
+The Whole Truth,2016,Keanu Reeves
+John Wick: Chapter Two,2017,Keanu Reeves
+Road House,1988,Patrick Swayze
+Donnie Darko,2001,Patrick Swayze
+Mindscape,2013,Taissa Farmiga
+6 Years,2015,Taissa Farmiga
+The Final Girls,2015,Taissa Farmiga
+In a Valley of Violence,2016,Taissa Farmiga
+Remember Me,2010,Robert Pattison
+Water for Elephants,2011,Robert Pattison
+The Rover,2014,Robert Pattison
+The Lost City of Z,2016,Robert Pattison
+Good Time,2017,Robert Pattison
+Brubaker,1980,Morgan Freeman
+Unforgiven,1992,Morgan Freeman
+Amistad,1997,Morgan Freeman
+Kiss the Girls,1997,Morgan Freeman
+Under Suspicion,2000,Morgan Freeman
+Along Came a Spider,2001,Morgan Freeman
+Million Dollar Baby,2004,Morgan Freeman
+Gone Baby Gone,2007,Morgan Freeman
+The Maiden Heist,2009,Morgan Freeman
+The Code,2009,Morgan Freeman
+Red,2010,Morgan Freeman
+Oblivion,2013,Morgan Freeman
+Now You See Me,2013,Morgan Freeman
+Trascendence,2014,Morgan Freeman
+Now You See Me 2,2016,Morgan Freeman
+Going in Style,2017,Morgan Freeman
+Oculus,2013,Karen Gillan
+The Circle,2017,Karen Gillan
+Jumanji: Welcome to the Jungle,2017,Karen Gillan
+Shaft,2000,Christian Bale
+American Psycho,2000,Christian Bale
+Equilibrium,2002,Christian Bale
+3:10 to Yuma,2007,Christian Bale
+Out of the Furnace,2013,Christian Bale
+American Hustle,2013,Christian Bale
+Hostiles,2017,Christian Bale
+The Untouchables,1987,Andy Garcia
+Black Rain,1989,Andy Garcia
+Things to Do in Denver When You're Dead,1995,Andy Garcia
+Night Falls on Manhattan,1996,Andy Garcia
+Hoodlum,1997,Andy Garcia
+Desperate Measures,1997,Andy Garcia
+Confidence,2003,Andy Garcia
+Ghostbusters,2016,Andy Garcia
+Jennifer's Body,2009,Chris Pratt
+Her,2013,Chris Pratt
+Jurassic World,2015,Chris Pratt
+The Magnificient Seven,2016,Chris Pratt
+Passengers,2016,Chris Pratt
+Jurassic World: Fallen Kingdom,2018,Chris Pratt
+The Phantom,1996,Catherine Zeta-Jones
+The Mask of Zorro,1998,Catherine Zeta-Jones
+The Haunting,1999,Catherine Zeta-Jones
+Entrapment,1999,Catherine Zeta-Jones
+Traffic,2000,Catherine Zeta-Jones
+The Legend of Zorro,2005,Catherine Zeta-Jones
+No Reservations,2007,Catherine Zeta-Jones
+Red 2,2013,Catherine Zeta-Jones
+Forrest Gump,1994,Tom Hanks
+Saving Private Ryan,1998,Tom Hanks
+Cast Away,2000,Tom Hanks
+Road to Perdition,2002,Tom Hanks
+Cloud Atlas,2012,Tom Hanks
+Bridge of Spies,2015,Tom Hanks
+Alpha Dog,2006,Anton Yelchin
+The Beaver,2011,Anton Yelchin
+Fright Night,2011,Anton Yelchin
+Like Crazy,2011,Anton Yelchin
+Odd Thomas,2013,Anton Yelchin
+Green Room,2015,Anton Yelchin
+Rememory,2017,Anton Yelchin
+Thoroughbreds,2017,Anton Yelchin
+The Silence of the Lambs,1991,Anthony Hopkins
+Hannibal,2001,Anthony Hopkins
+Bad Company,2002,Anthony Hopkins
+Red Dragon,2002,Anthony Hopkins
+Fracture,2007,Anthony Hopkins
+The Wolf Man,2010,Anthony Hopkins
+The Rite,2011,Anthony Hopkins
+Solace,2015,Anthony Hopkins
+Angel Heart,1987,Robert de Niro
+Goodfellas,1990,Robert de Niro
+Backdraft,1991,Robert de Niro
+A Bronx Tale,1993,Robert de Niro
+Heat,1995,Robert de Niro
+Casino,1995,Robert de Niro
+Cop Land,1997,Robert de Niro
+The Score,2001,Robert de Niro
+Stardust,2007,Robert de Niro
+Limitless,2011,Robert de Niro
+Silver Linings Playbook,2012,Robert de Niro
+Malavita,2013,Robert de Niro
+The Sixth Sense,1999,M. Night Shyamalan
+Unbrekeable,2000,M. Night Shyamalan
+Signs,2002,M. Night Shyamalan
+The Village,2004,M. Night Shyamalan
+Lady in the Water,2006,M. Night Shyamalan
+The Happening,2008,M. Night Shyamalan
+The Visit,2015,M. Night Shyamalan
+Split,2016,M. Night Shyamalan
+A Few Good Men,1992,Demi Moore
+Indecent Proposal,1993,Demi Moore
+G.I. Jane,1997,Demi Moore
+Half Light,2006,Demi Moore
+Mr. Brooks,2007,Demi Moore
+Flawless,2007,Demi Moore
+The Joneses,2009,Demi Moore
+Forsaken,2015,Demi Moore
+Higher Learning,1995,Jeniffer Connelly
+Inventing the Abbotts,1997,Jeniffer Connelly
+Dark City,1998,Jeniffer Connelly
+Dark Water,2005,Jeniffer Connelly
+Littlen Children,2006,Jeniffer Connelly
+Stuck in Love,2012,Jeniffer Connelly
+Knockaround Guys,2001,Vin Diesel
+xXx,2002,Vin Diesel
+A Man Apart,2003,Vin Diesel
+The Pacifier,2005,Vin Diesel
+The Last Wich Hunter,2015,Vin Diesel
+Walking Tall,2004,Dawney The Rock Johnson
+Empire State,2013,Dawney The Rock Johnson
+Assassins,1995,Antonio Banderas
+Desperado,1995,Antonio Banderas
+Original Sin,2001,Antonio Banderas
+Once Upon a Time in Mexico,2003,Antonio Banderas
+Bullet Head,2017,Antonio Banderas
+The Bone Collector,1999,Denzel Washington
+Training Day,2001,Denzel Washington
+John Q,2002,Denzel Washington
+Man on Fire,2004,Denzel Washington
+The Taking of Pelham 123,2009,Denzel Washington
+The Book of Eli,2010,Denzel Washington
+Safe House,2012,Denzel Washington
+2 Guns,2013,Denzel Washington
+The Equalizer,2014,Denzel Washington
+Lethal Weapon,1987,Mel Gibson
+Lethal Weapon 2,1989,Mel Gibson
+Lethal Weapon 3,1992,Mel Gibson
+Braveheart,1995,Mel Gibson
+Lethal Weapon 4,1998,Mel Gibson
+Payback,1999,Mel Gibson
+The Patriot,2000,Mel Gibson
+Get the Gringo,2012,Mel Gibson
+Jurassic Park,1993,Samuel L. Jackson
+Cleaner,2007,Samuel L. Jackson
+Jumper,2008,Samuel L. Jackson
+Kingsman: The Secret Service,2014,Samuel L. Jackson
+Rise of the Planet of the Apes,2011,Andy Serkis
+Dawn of the Planet of the Apes,2014,Andy Serkis
+War for the Planet of the Apes,2017,Andy Serkis
+Die Hard,1988,Bruce Willis
+Die Hard 2,1990,Bruce Willis
+Hudson Hawnk,1991,Bruce Willis
+Die Hard with a Vengeance,1995,Bruce Willis
+Last Man Standing,1996,Bruce Willis
+The Jackal,1997,Bruce Willis
+The Fifth Element,1997,Bruce Willis
+The Whole Nine Yards,1999,Bruce Willis
+Bandits,2001,Bruce Willis
+Hart's War,2002,Bruce Willis
+Tears of the Sun,2003,Bruce Willis
+The Whole Ten Yards,2004,Bruce Willis
+Hostage,2005,Bruce Willis
+Live Free or die Hard,2007,Bruce Willis
+Looper,2012,Bruce Willis
+A Good Day to Die Hard,2013,Bruce Willis
+Death Wish,2018,Bruce Willis
+Running Scared,2006,Paul Walker
+Eight Below,2006,Paul Walker
+Flags of Our Fathers,2006,Paul Walker
+Takers,2010,Paul Walker
+Brick Mansions,2014,Paul Walker
+WAZ,2007,Tom Hardy
+Lawless,2012,Tom Hardy
+The Drop,2014,Tom Hardy
+Child 44,2015,Tom Hardy
+Night at the Museum,2006,Ben Stiller
+Tower Height,2011,Ben Stiller
