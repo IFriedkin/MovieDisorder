@@ -6,6 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Random;
 import movie.Filmography;
 import movie.Movie;
 
@@ -25,7 +26,6 @@ public class Connect {
             String cycle = line.split(",")[2];
             int cycleNum = 1;
             int movieNum = 1;
-            Filmography filmo = new Filmography();
             
             Movie movie = new Movie();
             ArrayList<Movie> list = new ArrayList<>();
@@ -37,7 +37,6 @@ public class Connect {
                     
                     cycle = data[2];
                     list = new ArrayList<>();
-                    filmo = new Filmography();
                     cycleNum++;
                 }
                 
@@ -49,12 +48,12 @@ public class Connect {
                 
                 System.out.println(movieNum + ". " + movie.toString());
                 
-                movieNum++;
-                
-                if (movieNum == 366) {
+                if (movieNum == 365) {
                     addFilmography(cycleNum, list, filmography);
                 }
                 
+                movie = new Movie();
+                movieNum++;
                 line = br.readLine();
             }
         } catch (FileNotFoundException ex) {

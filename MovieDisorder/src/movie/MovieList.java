@@ -12,6 +12,10 @@ public class MovieList {
     public MovieList() {
     }
 
+    public MovieList(int pos) {
+        this.pos = pos;
+    }
+
     public MovieList(int pos, Movie movie) {
         this.pos = pos;
         this.movie = movie;
@@ -33,4 +37,8 @@ public class MovieList {
         this.movie = movie;
     }
 
+    @Override
+    public String toString() {
+        return pos + ". " + movie;
+    }
 }
